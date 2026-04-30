@@ -1,0 +1,22 @@
+# Virtual environment
+ValidClean/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files (don't push raw datasets)
+data/raw/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env vars
+.env
